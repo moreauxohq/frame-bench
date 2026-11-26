@@ -1,2 +1,5 @@
 # frame-bench
-Lightweight Deno utilities and helpers (frame-bench)
+
+Lightweight `Deno` utilities maintained by @moreauxohq.
+
+- Focus: Automating infrastructure so deployments feel uneventful.
